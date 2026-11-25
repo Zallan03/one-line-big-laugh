@@ -1,0 +1,9 @@
+{
+  "name": "one-line-big-laugh",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
